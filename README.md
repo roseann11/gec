@@ -28,4 +28,4 @@ Trained model weights are not included in this repository but can be accessed vi
 
 Trained model weights are not included in this repository but can be accessed via 
 
-Trained model weights are not included in this repository but can be accessed via the [Dataset Preparation](#dataset-preparation) section or directly from [Kaggle Checkpoints](https://www.kaggle.com/datasets/roseanncaguilar/checkpoints). Result notebooks and prediction outputs per model are saved under `GEC/results/`.
+Trained model weights are not included in this repository but can be accessed via [Kaggle Checkpoints](https://www.kaggle.com/datasets/roseanncaguilar/checkpoints). Result notebooks and prediction outputs per model are saved under `GEC/results/`.
