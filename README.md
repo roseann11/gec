@@ -15,7 +15,7 @@ The `GEC/notebooks/` directory contains two notebooks:
 - one for **Training** (`training_gec.ipynb`) — three-stage GECToR curriculum
 - one for **Evaluation** (`dev_gec.ipynb`) — per-stage inference and ERRANT scoring, including ensemble
 
-Each notebook provides a complete workflow and is designed to run on Kaggle (T4 × 2) or Google Colab. The notebooks are designed to simplify experimentation by exposing commonly adjusted parameters such as dataset paths, number of epochs, etc., to eliminate the need to repeatedly modify the main files.
+The notebooks are designed to make experimentation easier by allowing common settings such as dataset paths and the number of epochs to be adjusted, reducing the need to repeatedly modify the main files.
 
 During evaluation, `dev_gec.ipynb` covers:
 
@@ -34,3 +34,5 @@ Trained model weights are not included in this repository but can be accessed vi
 
 Trained model weights are not included in this repository but can be accessed via 
  Pre-processed files ready for training are available at [`roseannnnnaguilar/gector-shared-updated`](https://www.kaggle.com/datasets/roseannnnnaguilar/gector-shared-updated) (requires access).
+The notebooks are designed to simplify experimentation by exposing commonly adjusted parameters such as dataset paths, number of epochs, etc., to eliminate the need to repeatedly modify the main files.
+Each notebook provides a complete workflow and is designed to run on Kaggle (T4 × 2) or Google Colab.
